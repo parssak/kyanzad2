@@ -1,0 +1,4 @@
+# .gitignore
+classifier.dSYM/*
+classifier
+a2_datasets
